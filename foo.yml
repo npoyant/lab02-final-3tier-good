@@ -1,0 +1,5 @@
+---
+- hosts: frontends
+  roles:
+    - lb-tier
+
